@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "user1",
+      "email": "user1@example.com",
+      "dob": "2024-03-11"
+    },
+    {
+      "id": "2",
+      "username": "user2",
+      "email": "user2@example.com",
+      "dob": "2024-03-11"
+    },
+    {
+      "id": "1bc4",
+      "email": "idbalorg@gmail.com",
+      "username": "idrisbalogun02",
+      "password": "abc123",
+      "confirmPass": "abc123",
+      "dob": "2024-03-11"
+    },
+    {
+      "id": "93fb",
+      "email": "id@gmail.com",
+      "password": "password",
+      "dob": "2024-03-18",
+      "username": "idris"
+    }
+  ]
+}
